@@ -1,0 +1,77 @@
+{
+  "num_sides": 6,
+  "side_names": [
+    "Рыболюды Б",
+    "Рыболюды П",
+    "Надзиратели Б",
+    "Надзиратели П",
+    "Плупплупин",
+    "Герои"
+  ],
+  "side_counts": [
+    9,
+    9,
+    8,
+    8,
+    1,
+    8
+  ],
+  "armor_class": 13,
+  "health": 18,
+  "attack_name": "Копье",
+  "attack_bonus": 3,
+  "damage_dice_count": 1,
+  "damage_dice_type": "d8",
+  "damage_modifier": 1,
+  "damage_type": "Колющий",
+  "alliance_settings": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ]
+}

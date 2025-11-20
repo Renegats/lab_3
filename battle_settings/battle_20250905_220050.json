@@ -1,0 +1,38 @@
+{
+  "num_sides": 3,
+  "side_names": [
+    "Боблины",
+    "Оркоблины",
+    "Гобляда",
+    "Сторона D"
+  ],
+  "side_counts": [
+    5,
+    5,
+    20,
+    0
+  ],
+  "damage_dice_count": 1,
+  "damage_dice_type": "d6",
+  "damage_modifier": 0,
+  "attack_bonus": 0,
+  "armor_class": 10,
+  "health": 10,
+  "alliance_settings": [
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ]
+  ]
+}

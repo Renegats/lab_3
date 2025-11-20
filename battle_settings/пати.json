@@ -1,0 +1,117 @@
+{
+  "characters": [
+    {
+      "name": "Баппидо",
+      "max_days": 4,
+      "current_hunger": 2,
+      "exhaustion": 0
+    }
+  ],
+  "history": [
+    [],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 0,
+        "exhaustion": 0
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 0,
+        "exhaustion": 0
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 1,
+        "exhaustion": 0
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 2,
+        "exhaustion": 0
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 3,
+        "exhaustion": 0
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 4,
+        "exhaustion": 1
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 5,
+        "exhaustion": 2
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 6,
+        "exhaustion": 3
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 7,
+        "exhaustion": 4
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 8,
+        "exhaustion": 5
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 8,
+        "exhaustion": 5
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 0,
+        "exhaustion": 0
+      }
+    ],
+    [
+      {
+        "name": "Баппидо",
+        "max_days": 4,
+        "current_hunger": 1,
+        "exhaustion": 0
+      }
+    ]
+  ]
+}
